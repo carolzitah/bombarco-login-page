@@ -1,2 +1,2 @@
 # bombarco-login-page
-Training Bombarco login page with bootstrap
+Bombarco login page with bootstrap (Train)
