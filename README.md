@@ -1,2 +1,2 @@
 # bombarco-login-page
-clone bombarco login page with bootstrap
+Training Bombarco login page with bootstrap
